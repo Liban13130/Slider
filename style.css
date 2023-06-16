@@ -12,3 +12,11 @@ body {
   background: linear-gradient(to right, #11998e, #38ef7d); 
   padding: clamp(20px, 12vw, 120px) 10px 10px;
 }
+
+.box{
+  height: 450px;
+  width: 550px;
+  background: #1a1919;
+  margin: 50px auto;
+  border-radius: 5px;
+}
